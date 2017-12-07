@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyDemo</string>
+    <string name="run_api">RUN API</string>
+</resources>
